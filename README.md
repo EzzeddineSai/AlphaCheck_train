@@ -1,1 +1,1 @@
-Training component of AlphaCheck. Which is a checker's AI based on AlphaZero. For more information about AlphaCheck see the main page here.
+The self-play and neural net training component of AlphaCheck. Which is a checker's AI based on [AlphaZero](https://arxiv.org/abs/1712.01815). For more information about AlphaCheck see the main page here.
